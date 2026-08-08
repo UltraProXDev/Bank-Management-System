@@ -4,7 +4,7 @@ A complete **Bank Management System** developed using **Java**, **MySQL**, and *
 
 The application uses **JDBC (Java Database Connectivity)** to connect Java files with a MySQL database and perform database operations such as inserting, updating, deleting, and retrieving data.
 
-https://github.com/user-attachments/assets/e54f2677-cba8-40a7-8644-4f97ace385f9
+https://github.com/user-attachments/assets/0797c9e4-b742-4e25-8d96-09a484570cb4
 
 ---
 
