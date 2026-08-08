@@ -4,6 +4,8 @@ A complete **Bank Management System** developed using **Java**, **MySQL**, and *
 
 The application uses **JDBC (Java Database Connectivity)** to connect Java files with a MySQL database and perform database operations such as inserting, updating, deleting, and retrieving data.
 
+https://github.com/user-attachments/assets/e54f2677-cba8-40a7-8644-4f97ace385f9
+
 ---
 
 ## 🚀 Project Overview
@@ -50,6 +52,11 @@ Transaction Module:
 - All banking transactions are stored in the `transactions` table.
 
 ---
+## 📂 Project Structure
+
+<img width="382" height="641" alt="a2" src="https://github.com/user-attachments/assets/0ac48660-684d-4d9c-ba72-6fa16de94b02" />
+
+---
 
 ## 🗄️ Database Used
 
@@ -66,6 +73,11 @@ Tables:
 - accounts
 - transactions
 - loans
+
+<img width="930" height="1015" alt="a1" src="https://github.com/user-attachments/assets/8daed7ae-12fa-4997-b51a-cb8d417802e9" />
+
+<img width="1072" height="782" alt="a3" src="https://github.com/user-attachments/assets/ea9e1fa9-0f5e-4430-978d-e4a947cea46c" />
+
 
 ---
 
